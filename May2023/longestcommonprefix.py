@@ -27,8 +27,6 @@ class Solution:
             
             return returnstr
 
-        
-
 test = Solution()
 
 # Input: strs = ["flower","flow","flight"]
